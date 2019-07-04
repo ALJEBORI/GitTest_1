@@ -6,6 +6,6 @@ function printx(x) {
   return x;
 }
 const d = test(1);
-const b = test(2);
+const e = test(2);
 const c = test(3);
 console.log("end", a, b, c);
