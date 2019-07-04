@@ -7,5 +7,5 @@ function printx(x) {
 }
 const d = test(1);
 const e = test(2);
-const c = test(3);
+const f = test(3);
 console.log("end", a, b, c);
